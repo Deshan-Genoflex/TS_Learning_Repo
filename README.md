@@ -1,2 +1,2 @@
 # Example Repo
-this is a learning Repo , Hey Deshan!
+this is a TS learning Repo , Hey Deshan!
